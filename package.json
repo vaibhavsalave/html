@@ -1,0 +1,13 @@
+{
+  "name": "dark-digital-website",
+  "version": "1.0.0",
+  "description": "Dark Digital Marketing Agency Website",
+  "main": "html.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - no start needed'"
+  },
+  "keywords": ["marketing", "digital", "agency", "website"],
+  "author": "Dark Digital",
+  "license": "MIT"
+}
